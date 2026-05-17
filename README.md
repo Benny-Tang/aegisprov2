@@ -35,7 +35,7 @@ Built for the **AI Agent Olympics — Milan AI Week 2026** on lablab.ai.
 
 ## Live Demo
 
-> Deploy to Colab: Upload `Aegis_Pro_v2_Milan.ipynb`, set Runtime to T4 GPU, Run All.
+> Colab Demo: https://verena-critical-plenarily.ngrok-free.dev/
 
 | Endpoint | Description |
 |---|---|
